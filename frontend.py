@@ -1,14 +1,12 @@
 import streamlit as st
-import requests
-from datetime import date
 
-from torch import mul
+from datetime import date
 from main import Calculate
 
 # API_URL = "http://localhost:8000/billing"
 
 st.set_page_config(
-    page_title="Jewellery Billing System",
+    page_title="Jai Maa Vaisano Jwellers",
     page_icon="💎",
     layout="centered"
 )
