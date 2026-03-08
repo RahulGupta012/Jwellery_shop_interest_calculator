@@ -58,8 +58,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------- Header ----------
-st.markdown('<p class="title">💎 Jewellery Interest Calculator</p>', unsafe_allow_html=True)
-st.markdown('<p class="subtitle">Professional Billing Tool</p>', unsafe_allow_html=True)
+st.markdown('<p class="title">💎 Jai Maa Vaisano Jwellers</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitle"> ~ Namsate 🙏 ~ </p>', unsafe_allow_html=True)
 
 st.divider()
 
