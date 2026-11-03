@@ -5,6 +5,7 @@ This project will make this so much easy.
 - it consists automatic duration calculation, he only need to put the date of deal date.
 - this will calculate the total duration by substracting today's date in days.
 - and by day duration it will calculate the day wise intrest which is usually difficult to do manually.
+- There are 2%, 3%, 4% and 5% intrest slabs are available.
 
 
 I also hosted at streamlit free hosting service everyone can use this. 
